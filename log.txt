@@ -1,3 +1,0 @@
-7e2c116 (HEAD -> master) added gitignore
-df91d34 added two files
-e7d43b7 added readme.txt
